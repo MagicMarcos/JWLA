@@ -17,7 +17,6 @@
 <p>Through building this app, I was able to sharpen my skills with CSS flexbox and floats</p>
 
 <h1>Optimizations</h1>
-<p>Optimize CSS</p>
 <p>The CSS can certainly be modernized and simplified </p>
 
 ---
